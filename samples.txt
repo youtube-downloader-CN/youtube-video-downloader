@@ -1,0 +1,2 @@
+# Quick Thoughts
+Decouple business logic from UI rendering in module X
